@@ -1,0 +1,15 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  padding: 20px;
+}
+.post {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+.post h2 {
+  margin-top: 0;
+  font-size: 18px;
+}
